@@ -1,8 +1,9 @@
 /**
  * Write a description of SecondRatings here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Second ratings is a class that has two fields arraylist of rated movies and raters 
+ * It loads all movies and raters using FirstRatings Class
+ * @author (Ivan Lazic) 
+ * @version (v1)
  */
 
 import java.util.*;
